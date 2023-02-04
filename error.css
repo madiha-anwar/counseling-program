@@ -7,7 +7,8 @@ label{
     margin-top: 30px;
     font-size: 16px;
     font-weight: 500;
-    margin-left: 20%;
+    margin-left: 22%;
+    color: #e5e5e5;
 
     }
 
@@ -34,11 +35,11 @@ label{
     background-color: #ffffff;
     color: #080710;
     padding: 15px 0;
-    margin: 10px 0;
+    margin: 8px 0;
     border: none;
     width: 25%;
-    margin-top: 40px;
-    margin-left: 55px;
+    margin-top: 10px;
+    margin-left: 35%;
     font-size: 15px;
     font-weight: 600;
     border-radius: 5px;
@@ -46,7 +47,9 @@ label{
   }
 
   h3 {
-    margin-left: 20%;
+    margin-left: 40%;
+    color: #e5e5e5;
+
   }
   body{
     background-color: #463b83;
@@ -103,7 +106,7 @@ label{
   /* Modal Content/Box */
   .modal-content {
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
-    height: 320px;
+    height: 400px;
     width: 300px;
     background-color: rgba(255,255,255,0.13);
     position: absolute;
@@ -112,7 +115,7 @@ label{
     backdrop-filter: blur(10px);
     border: 2px solid rgba(255,255,255,0.1);
     box-shadow: 0 0 40px rgba(8,7,16,0.6);
-    padding: 50px 35px;
+    padding: 30px 35px;
     }
   
   /* Add Zoom Animation */
